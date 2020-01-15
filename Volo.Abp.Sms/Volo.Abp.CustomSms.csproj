@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId>Volo.Abp.CustomSms</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>tudou</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryType>git</RepositoryType>
+    <RepositoryUrl>https://github.com/xiaoliang1314/Volo.Abp.CustomSms</RepositoryUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.BackgroundJobs" Version="2.0.0" />
+    <PackageReference Include="Volo.Abp.Core" Version="2.0.0" />
+    <PackageReference Include="Volo.Abp.Settings" Version="2.0.0" />
+    <PackageReference Include="Volo.Abp.VirtualFileSystem" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>

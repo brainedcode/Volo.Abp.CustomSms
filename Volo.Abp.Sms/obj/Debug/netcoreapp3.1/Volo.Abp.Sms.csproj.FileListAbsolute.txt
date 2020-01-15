@@ -1,0 +1,8 @@
+D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreapp3.1\Volo.Abp.Sms.csprojAssemblyReference.cache
+D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreapp3.1\Volo.Abp.Sms.AssemblyInfoInputs.cache
+D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreapp3.1\Volo.Abp.Sms.AssemblyInfo.cs
+D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\bin\Debug\netcoreapp3.1\Volo.Abp.Sms.deps.json
+D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\bin\Debug\netcoreapp3.1\Volo.Abp.Sms.dll
+D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\bin\Debug\netcoreapp3.1\Volo.Abp.Sms.pdb
+D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreapp3.1\Volo.Abp.Sms.dll
+D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreapp3.1\Volo.Abp.Sms.pdb

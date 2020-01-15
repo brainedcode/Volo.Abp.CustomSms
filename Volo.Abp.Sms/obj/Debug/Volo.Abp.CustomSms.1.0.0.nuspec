@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Volo.Abp.CustomSms</id>
+    <version>1.0.0</version>
+    <authors>tudou</authors>
+    <owners>tudou</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Volo.Abp.BackgroundJobs" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Core" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Settings" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.VirtualFileSystem" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\bin\Debug\netcoreapp3.1\Volo.Abp.CustomSms.dll" target="lib\netcoreapp3.1\Volo.Abp.CustomSms.dll" />
+  </files>
+</package>
