@@ -5,3 +5,4 @@ D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreap
 D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreapp3.1\Volo.Abp.CustomSms.AssemblyInfo.cs
 D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreapp3.1\Volo.Abp.CustomSms.dll
 D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreapp3.1\Volo.Abp.CustomSms.pdb
+D:\个人程序文件\个人项目\Volo.Abp.Sms\Volo.Abp.Sms\obj\Debug\netcoreapp3.1\Volo.Abp.CustomSms.csprojAssemblyReference.cache

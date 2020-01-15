@@ -5,7 +5,7 @@
     <PackageId>Volo.Abp.CustomSms</PackageId>
     <Version>1.0.0</Version>
     <Authors>tudou</Authors>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/xiaoliang1314/Volo.Abp.CustomSms</RepositoryUrl>
   </PropertyGroup>

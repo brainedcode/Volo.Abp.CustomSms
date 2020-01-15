@@ -7,6 +7,7 @@
     <owners>tudou</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Package Description</description>
+    <repository type="git" url="https://github.com/xiaoliang1314/Volo.Abp.CustomSms" />
     <dependencies>
       <group targetFramework=".NETCoreApp3.1">
         <dependency id="Volo.Abp.BackgroundJobs" version="2.0.0" exclude="Build,Analyzers" />
